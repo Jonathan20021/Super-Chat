@@ -1,5 +1,5 @@
 
-# Socket.IO Chat
+# Super Chat
 
 A simple chat demo for socket.io
 
